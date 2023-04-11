@@ -3,9 +3,10 @@
 SISTEM E-VOTING
 E-Voting atau yang disingkat dengan Electronic Voting adalah sebuah sistem pemungutan suara dalam proses sebuah pemilihan, yang dilakukan secara online. E-Voting ini adalah sistem pemungutan suara yang dibuat berbasis web, menggunakan bahasa pemrograman PHP, dan menggunakan MySQL sebagai database penyimpanan datanya. E-voting ini terfokus pada sistem pemungutan suara pada pemilihan Ketua Himpunan dan Wakil Ketua Himpunan jurusan Teknik Informatika di kampus Politeknik Negeri Indramayu. Dimana sistem dapat mendata nama-nama kandidat yang akan mengikuti pemilihan, sistem juga mampu mendata data-data mahasiswa sebagai pemilih yang yang akan mengikuti pemilihan secara online.
 
-Proyek ini dibuat menggunakan framework Laravel versi 7.25.0
-PHP versi 7.4.33
-MySQL 5.7.24
+Proyek ini dibuat menggunakan :
+- Framework Laravel versi 7.25.0
+- PHP versi 7.4.33
+- MySQL 5.7.24
 
 Cara instalasi :
 Jika menggunakan XAMPP 
